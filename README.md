@@ -4,6 +4,7 @@ Neste repositorio, você encontrara os materiais utilizados no curso "Desenvolvi
 
 * Codigos Usados
 * O pacote feito no curso
+* Slides, em formato zip (basta abrir o html apos extrair a pasta)
 
 ## Codigos Para Setup
 
